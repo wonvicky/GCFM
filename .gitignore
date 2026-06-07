@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+
+logs/
+result/
+nohup*.log
+*.log
+
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# optional plotting outputs
+*.png
+*.pdf
+!README.md
